@@ -1,1 +1,11 @@
-{"holdingDateKey":20190405,"holdingDate":"2019-04-05T00:00:00","accountKey":25449,"accountCode":"AccountCode_1","accountId":43470,"securityKey":513,"securityId":593,"currencyKey":153,"quantity":7309514.0000,"holdingPrice":85.400000,"marketValue":624232495.600000,"dividendReceivable":6139991.760000,"accruedInterest":0.00,"costBasis":512535108.22,"fxRate":1.000000,"accountType":"AccountType_1","primaryIndexKey":2,"briefName":"BriefName_1","shortName":"ShortName_1","longName":"LongName_1","detailStrategyKey":161,"performanceStartDateKey":19900501,"isRepAccount":true,"treatConvertibleBondAsEquity":true,"porfolioWeightMethod":"PorfolioWeightMethod_1","matrixGroupSortOrder":1,"matrixSubgroupSortOrder":49,"securityName":"SecurityName_1","securityTypeCode":"SecurityTypeCode_1","securityType":"SecurityType_1","securityClass":"Equity","companyKey":11,"parsTicker":"ParsTicker_1","ibesTicker":"IbesTicker_1","bloombergTicker":"BloombergTicker_1","bloombergId":"BloombergId_1","underlyingSecurityId":null,"countryCode":"US","msciCountryCode":"US","countryCodeOfIncorporation":"US","countryCodeOfDomicile":"US","gicsOrUnderlyingCode":"25203020","gicsOrUnderlyingSector":"Consumer Discretionary","gicsOrUnderlyingGroup":"Consumer Durables & Apparel","gicsOrUnderlyingIndustry":"Textiles, Apparel & Luxury Goods","gicsOrUnderlyingSubindustry":"Footwear","isAdr":false,"isPnote":false,"isMlp":false,"isEtf":false,"isShort":false,"relatedSecurityId":null,"gicsCode":"25203020","gicsSector":"Consumer Discretionary","gicsGroup":"Consumer Durables & Apparel","gicsIndustry":"Textiles, Apparel & Luxury Goods","gicsSubindustry":"Footwear","isJennGics":false,"is144A":false,"isSectorMatrixAdr":false,"fundAssetClass":null,"optionStrikePrice":null,"optionExpirationDate":null,"moodysRating":"Unknown","spRating":"Unknown","fitchRating":"Unknown","onlySplitAdjustedPrice":85.4000,"onlySplitAdjustedPriceInUSD":85.4000,"adjustedPrice":85.4000,"adjustedPriceInUSD":85.4000,"actualEarning":0.6800,"estimateEarning":0.6470,"estimateCount":28,"epsGrowth5Year":null,"epsStability5Year":null,"detailStrategyId":"DetailStrategyId_1","detailStrategyName":"DetailStrategyName_1","investmentTeam":"InvestmentTeam_1"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
